@@ -52,7 +52,7 @@ $privacy = file_exists($privacy_file) ? file_get_contents($privacy_file) : false
                 </span>
             <?php
             } else { ?>
-                <a class="pull-right" title="Built with Veno File Manager" target="_blank" href="http://filemanager.veno.it">
+                <a class="pull-right" title="codefile" target="_blank" href="http://codeslide.in">
                     <i class="vfmi vfmi-typo"></i>
                 </a>
             <?php
